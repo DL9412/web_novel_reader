@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d51219a1-24e9-43a7-8a6e-f9cf9ef295ce" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l7x3M8adl0WzxsHu1pCWsMfwXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d51219a1-24e9-43a7-8a6e-f9cf9ef295ce" name="默认的" comment="" />
+      <created>1606961730642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606961730642</updated>
+      <workItem from="1606961731808" duration="2154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2457" height="413" key="GridCell.Tab.0.bottom" timestamp="1606963634477">
+      <screen x="82" y="0" width="2478" height="1440" />
+    </state>
+    <state width="2457" height="413" key="GridCell.Tab.0.bottom/2642.261.1838.1080/82.0.2478.1440@82.0.2478.1440" timestamp="1606963634477" />
+    <state width="2457" height="413" key="GridCell.Tab.0.center" timestamp="1606963634477">
+      <screen x="82" y="0" width="2478" height="1440" />
+    </state>
+    <state width="2457" height="413" key="GridCell.Tab.0.center/2642.261.1838.1080/82.0.2478.1440@82.0.2478.1440" timestamp="1606963634477" />
+    <state width="2457" height="413" key="GridCell.Tab.0.left" timestamp="1606963634476">
+      <screen x="82" y="0" width="2478" height="1440" />
+    </state>
+    <state width="2457" height="413" key="GridCell.Tab.0.left/2642.261.1838.1080/82.0.2478.1440@82.0.2478.1440" timestamp="1606963634476" />
+    <state width="2457" height="413" key="GridCell.Tab.0.right" timestamp="1606963634477">
+      <screen x="82" y="0" width="2478" height="1440" />
+    </state>
+    <state width="2457" height="413" key="GridCell.Tab.0.right/2642.261.1838.1080/82.0.2478.1440@82.0.2478.1440" timestamp="1606963634477" />
+    <state x="977" y="340" width="672" height="677" key="run.anything.popup" timestamp="1606962517994">
+      <screen x="82" y="0" width="2478" height="1440" />
+    </state>
+    <state x="977" y="340" width="672" height="677" key="run.anything.popup/2642.261.1838.1080/82.0.2478.1440@82.0.2478.1440" timestamp="1606962517994" />
+  </component>
+</project>

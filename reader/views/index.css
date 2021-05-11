@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+.menu{
+    width: 100%;
+    height: 28px;
+    line-height: 28px;
+    list-style: none;
+    background: #cccccc;
+    color: #333333;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    transition: top 0.4s;
+}
+.menu.menuHide{
+    top: -28px;
+}
+.menu li{
+    width: 60px;
+    float: left;
+    user-select: none;
+}
+.menu li:hover{
+    background: #aaaaaa;
+}
+.menuBtn{
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    user-select: none;
+    z-index: 2;
+    transition: transform 0.4s;
+    transform: rotateZ(-90deg);
+}
+.menuBtn.showMenu{
+    transform: rotateZ(90deg);
+}
+.el-dialog__header{
+    display: none;
+}
+.el-dialog__body{
+    padding: 10px !important;
+}
+
+.title{
+    padding: 10px 0;
+    text-align: center;
+    font-size: 18px;
+}
+.book{
+    padding: 0 20px;
+}
+
+.moveBtn{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 20px;
+    width: 20px;
+    cursor: move;
+}
+.moveBtn:hover{
+    background: #00000099;
+}

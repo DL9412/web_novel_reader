@@ -82,9 +82,6 @@ typings/
 .nuxt
 dist
 
-# electron build
-out
-
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
